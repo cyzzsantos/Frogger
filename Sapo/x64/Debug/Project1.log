@@ -1,0 +1,20 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Sapo.cpp
+C:\Users\cyzzs\Desktop\univ\2_Ano_ISEC\SO2\TP_SO2\Frogger\Sapo\Sapo.cpp(95): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\cyzzs\Desktop\univ\2_Ano_ISEC\SO2\TP_SO2\Frogger\Sapo\Sapo.cpp(159): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\cyzzs\Desktop\univ\2_Ano_ISEC\SO2\TP_SO2\Frogger\Sapo\Sapo.cpp(172): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\cyzzs\Desktop\univ\2_Ano_ISEC\SO2\TP_SO2\Frogger\Sapo\Sapo.cpp(185): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\cyzzs\Desktop\univ\2_Ano_ISEC\SO2\TP_SO2\Frogger\Sapo\Sapo.cpp(198): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\cyzzs\Desktop\univ\2_Ano_ISEC\SO2\TP_SO2\Frogger\Sapo\Sapo.cpp(469,38): warning C4312: 'type cast': conversion from 'const long' to 'HMENU' of greater size
+C:\Users\cyzzs\Desktop\univ\2_Ano_ISEC\SO2\TP_SO2\Frogger\Sapo\Sapo.cpp(474,47): warning C4312: 'type cast': conversion from 'const long' to 'HMENU' of greater size
+C:\Users\cyzzs\Desktop\univ\2_Ano_ISEC\SO2\TP_SO2\Frogger\Sapo\Sapo.cpp(479,46): warning C4312: 'type cast': conversion from 'const long' to 'HMENU' of greater size
+C:\Users\cyzzs\Desktop\univ\2_Ano_ISEC\SO2\TP_SO2\Frogger\Sapo\Sapo.cpp(484,43): warning C4312: 'type cast': conversion from 'const long' to 'HMENU' of greater size
+C:\Users\cyzzs\Desktop\univ\2_Ano_ISEC\SO2\TP_SO2\Frogger\Sapo\Sapo.cpp(489,43): warning C4312: 'type cast': conversion from 'const long' to 'HMENU' of greater size
+C:\Users\cyzzs\Desktop\univ\2_Ano_ISEC\SO2\TP_SO2\Frogger\Sapo\Sapo.cpp(494,39): warning C4312: 'type cast': conversion from 'const long' to 'HMENU' of greater size
+C:\Users\cyzzs\Desktop\univ\2_Ano_ISEC\SO2\TP_SO2\Frogger\Sapo\Sapo.cpp(644,25): warning C4244: 'initializing': conversion from 'WPARAM' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\cyzzs\Desktop\univ\2_Ano_ISEC\SO2\TP_SO2\Frogger\Sapo\Sapo.cpp(101): warning C4715: 'Disconnect': not all control paths return a value
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project1.vcxproj -> C:\Users\cyzzs\Desktop\univ\2_Ano_ISEC\SO2\TP_SO2\Frogger\x64\Debug\Sapo.exe

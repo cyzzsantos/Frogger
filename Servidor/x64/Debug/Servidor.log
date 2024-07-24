@@ -1,0 +1,16 @@
+﻿  Elements.cpp
+  Map.cpp
+  MapManager.cpp
+C:\Users\cyzzs\Desktop\univ\2_Ano_ISEC\SO2\TP_SO2\Frogger\Servidor\MapManager.cpp(168,31): warning C4101: 'e': unreferenced local variable
+C:\Users\cyzzs\Desktop\univ\2_Ano_ISEC\SO2\TP_SO2\Frogger\Servidor\MapManager.cpp(198,13): warning C4156: deletion of an array expression without using the array form of 'delete'; array form substituted
+C:\Users\cyzzs\Desktop\univ\2_Ano_ISEC\SO2\TP_SO2\Frogger\Servidor\MapManager.cpp(198,13): warning C4154: deletion of an array expression; conversion to pointer supplied
+  rng.cpp
+  SharedMemory.cpp
+C:\Users\cyzzs\Desktop\univ\2_Ano_ISEC\SO2\TP_SO2\Frogger\Servidor\SharedMemory.cpp(122,190): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  Generating Code...
+  Servidor.cpp
+C:\Users\cyzzs\Desktop\univ\2_Ano_ISEC\SO2\TP_SO2\Frogger\Servidor\Servidor.cpp(86,12): warning C4477: 'wprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'HANDLE'
+C:\Users\cyzzs\Desktop\univ\2_Ano_ISEC\SO2\TP_SO2\Frogger\Servidor\Servidor.cpp(86,12): warning C4313: 'wprintf': '%d' in format string conflicts with argument 1 of type 'HANDLE'
+C:\Users\cyzzs\Desktop\univ\2_Ano_ISEC\SO2\TP_SO2\Frogger\Servidor\Servidor.cpp(132,83): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\cyzzs\Desktop\univ\2_Ano_ISEC\SO2\TP_SO2\Frogger\Servidor\Servidor.cpp(133,84): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+  Servidor.vcxproj -> C:\Users\cyzzs\Desktop\univ\2_Ano_ISEC\SO2\TP_SO2\Frogger\x64\Debug\Servidor.exe

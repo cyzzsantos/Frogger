@@ -1,0 +1,75 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.35.32217.1",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/cyzzs/desktop/tp_so2/frogger/project1/project1.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "d08bb0b667b98a8a5b9ae602db97ace7480432f0ad41097984ea3d083b3dd22f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cyzzs/desktop/tp_so2/frogger/project1/framework.h"
+          },
+          "hashes": {
+            "sha-256": "4afdded82fbf3d4822d743ea3c3167e11c9fb84591759b871761f4a27e761d77"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cyzzs/desktop/tp_so2/frogger/project1/targetver.h"
+          },
+          "hashes": {
+            "sha-256": "98488711a351764d005e8c3d3fd40aaed28396870a660c28abd81ac2a53d4b90"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cyzzs/desktop/tp_so2/frogger/project1/project1.h"
+          },
+          "hashes": {
+            "sha-256": "dbe92c37b1dd602c457439a66d893d114641cff7a8ee2e5965abfb3703d60d9b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cyzzs/desktop/tp_so2/frogger/project1/resource.h"
+          },
+          "hashes": {
+            "sha-256": "deaa94bfd2a9fe3ecc17be31db32e95b9ead1b31cdcea381af3a6b2674769c8f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cyzzs/desktop/tp_so2/frogger/project1/conectar.h"
+          },
+          "hashes": {
+            "sha-256": "1ca74fb6f3c9482b5504842a3e61a4e68852cb2026c6748005de8ef823993e03"
+          }
+        }
+      ]
+    }
+  ]
+}
